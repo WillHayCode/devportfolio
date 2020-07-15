@@ -1,3 +1,7 @@
+Website Content: William Hayward, 2020
+
+Photo by Chris Benson on Unsplash
+
 MIT License
 
 Copyright (c) 2020 Ryan Fitzgerald
